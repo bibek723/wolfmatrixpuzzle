@@ -1,0 +1,4 @@
+I have solved puzzle 2
+You can see public repo at docker hub
+To pull the repo type the command :
+docker pull bibek723/api:v1
